@@ -1,7 +1,7 @@
 #pragma once
 #include "../main.hpp"
 
-class MyApp: public wxApp
+class MainApp: public wxApp
 {
 public:
     virtual bool OnInit();

@@ -5,7 +5,8 @@
     #include <wx/wx.h>
 #endif
 
-#include "MyApp/MyApp.hpp"
-#include "MyFrame/MyFrame.hpp"
+#include "MainApp/MainApp.hpp"
+#include "MainFrame/MainFrame.hpp"
+#include "Canvas/Canvas.hpp"
 
 

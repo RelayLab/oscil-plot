@@ -1,6 +1,6 @@
-#include "MyFrame.hpp"
+#include "MainFrame.hpp"
 
-void MyFrame::OnAbout(wxCommandEvent& event  )
+void MainFrame::OnAbout(wxCommandEvent& event  )
 {
     wxMessageBox( "This is a wxWidgets' Hello world sample",
                   "About Hello World", wxOK | wxICON_INFORMATION );
